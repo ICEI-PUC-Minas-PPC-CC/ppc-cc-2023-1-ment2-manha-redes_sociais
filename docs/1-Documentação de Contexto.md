@@ -1,11 +1,12 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+As redes sociais atualmente são um grande pilar da internet, para interações, comunicação, expressões artísticas e pessoas e por ser um ambiente aberto de livre circulação, pode se dizer que possui uma série de beneficios, porem, tambem com seus problemas e dentre eles destacamos problemas de segurança, sobretudo a segurança das crianças e adolescentes que consomem o conteúdo.
+As dificuldades de se ensinar e passar o conhecimento para os mais jovens de como se protegerem, assim como continuarem seu livre acesso e desfrutarem dos recursos, porem de forma segura sem serem expostos a tanto perigo, ou se expostos, as melhores formas de se precaverem e protegerem.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Atualmente temos uma quantiadde de mais de 5.6 bilhões de usuários na internet (dados de 6 de janeiro de 2023) e com um uso global médio de 7 horas online todos os dias.
+Em outubro de 2022 temos 4.74 bilhões de usuários ativos em midias sociais, sendo isso 59,3% da populçao mundial e ainda temos que o TikTok, a exemplo, foi baixado 3 bilhões de vezes em 2022 e um usuário médio abre o aplicativo 19 vezes ao dia, sendo que crianças possuem uma média minima de 75 minutos por dia no aplicativo, assim como mais de 1 bilhão de mensagens sao trocadas entre marcas e usuários a cada mês, sendo a sua grande marioria dizendo ter preferencia de contato através de mensagens.
+Com base nisso, podemos ter um parametro geral da dimensão  da utilização da internet, e assim, com alguns dados temos tambem que em média, 30.000 sites são alvejados e atacados diariamente e estima-se que haja uma vitíma de um cibercrime a cada 37 segundos, segundo dados de 2021 e os crimes de segurança cibertnética mais comuns são: phishing, fraude, violação de propriedade intelectual, roubo de identidade, assédio e perseguição cibertnética.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -14,18 +15,18 @@ O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Tendo em vista dados que comprovam a grandiosidade da internet, assim como um número muito grande de perigos e lacunas na segurançã na internet, teremos como principais objetivos em nosso trabalho, levantar quais são as principais dificuldades de pais e cuidadores a ensinar e repassar o conhecimento para as crinaças e a adolescentes para que os mesmos possam se precaver e desfrutar dos recursos da internet com uma navegação segura.
+O trabalho visa como objetivo alencar as dificuldades, tanto por falta de conhecimento de como se precaver e se manter seguro mas tambem como repassar o conhecimento para os mais jovens.
+A idéia inicial será de através de entrevistas, questionarios e levantamento de dados levantar as maiores dificuldades em questão de segurança na internet e através disso propor algumas palestras ensinando alguns métodos de como se proteger e evitar a exposição da crinaça e adolescente na internet, assim como alertar a todos sobre os possíveis crimes e como identificar os perigos que estão na internet, com foco em redes sociais.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
 > **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar][(https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)]
+> [(https://www.websiterating.com/pt/research/internet-statistics-facts/#chapter-8)]
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+A internet atualmente se tornou uma ferramenta indispensável de pesquisa e aprendizado, assim como a grande maioria se faz uso de redes sociais como forma de engajamento social nas mais diversas comunidades, nichos, assim como seu uso para comunicação.
+Em meio aos mais diversos cenários preocupantes, temos que a falta de conhecimento em um ambiente de exposição tao grande pode ocasionar em um grande perigo na internet, e com isso vê-se necessário o ensinamento e repassar os conhecimentos para que todos possam se utilizar da interne como um todo, para que seu uso possa ser livre e sobretudo, seguro.ento das Referências bibliográficas.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
