@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Redes Sociais - Segurança da Criança e do Adolescente na internet
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Mentoring II`
