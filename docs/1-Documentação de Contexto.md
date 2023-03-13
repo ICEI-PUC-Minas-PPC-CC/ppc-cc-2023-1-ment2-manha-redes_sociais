@@ -9,10 +9,10 @@ Em outubro de 2022 temos 4.74 bilhões de usuários ativos em midias sociais, se
 Com base nisso, podemos ter um parametro geral da dimensão  da utilização da internet, e assim, com alguns dados temos tambem que em média, 30.000 sites são alvejados e atacados diariamente e estima-se que haja uma vitíma de um cibercrime a cada 37 segundos, segundo dados de 2021 e os crimes de segurança cibertnética mais comuns são: phishing, fraude, violação de propriedade intelectual, roubo de identidade, assédio e perseguição cibertnética.
 
 > **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> - [As redes sociais mais usadas](https://www.oficinadanet.com.br/post/16064-quais-sao-as-dez-maiores-redes-sociais)
 > - [Dados sobre internet e cibercrimes](https://www.websiterating.com/pt/research/internet-statistics-facts/#chapter-8)
+> - [Cibercrimes na internet](https://www.convergenciadigital.com.br/Seguranca/Cibercrime-atinge-receita-de-R%24-43-trilhoes-e-se-torna-a-terceira-economia-do-mundo-61403.html?UserActiveTemplate=mobile)
+> - [Exposiçao da criança e do adolescente na internet](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/novembro/exposicao-de-criancas-e-adolescentes-na-internet-ocupa-quinta-posicao-no-ranking-de-denuncias-do-disque-100)
 
 ## Objetivos
 
@@ -21,8 +21,8 @@ O trabalho visa como objetivo alencar as dificuldades, tanto por falta de conhec
 A idéia inicial será de através de entrevistas, questionarios e levantamento de dados levantar as maiores dificuldades em questão de segurança na internet e através disso propor algumas palestras ensinando alguns métodos de como se proteger e evitar a exposição da crinaça e adolescente na internet, assim como alertar a todos sobre os possíveis crimes e como identificar os perigos que estão na internet, com foco em redes sociais.
 
 > **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar][(https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)]
-> [()]
+> - [Crianças nas redes sociais](http://eventosacademicos.filo.uba.ar/index.php/SCSE/II-2014/paper/view/1978)
+> - [mediação paternal na exposição as redes sociais](https://www.redalyc.org/journal/4518/451870070012/451870070012.pdf)
 
 ## Justificativa
 
@@ -30,7 +30,8 @@ A internet atualmente se tornou uma ferramenta indispensável de pesquisa e apre
 Em meio aos mais diversos cenários preocupantes, temos que a falta de conhecimento em um ambiente de exposição tao grande pode ocasionar em um grande perigo na internet, e com isso vê-se necessário o ensinamento e repassar os conhecimentos para que todos possam se utilizar da interne como um todo, para que seu uso possa ser livre e sobretudo, seguro.ento das Referências bibliográficas.
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [Exposição exagerada de crianças em redes sociais](http://seer.uniacademia.edu.br/index.php/cadernospsicologia/article/view/3145)
+> - [Vulnerabilidade social e a exposição da criança na internet](https://www.scielo.br/j/psoc/a/BhpqZsFyTsQ8dsxySqG8tQc/abstract/?lang=pt)
 
 ## Público-Alvo
 
