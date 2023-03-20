@@ -6,10 +6,14 @@
 
 ## Integrantes
 
+- Alana Silva Barbosa
+- Diogo Azevedo Batagini
 - Giulia Ramos Bagodi
+- Luiz Roberto Moretti Cavelagna
 - Mateus Pereira de Oliveira (Noite)
-- Yuri Stockler
-- 
+- Matheus Henrique Ferreira Neves
+- Stella Maris Gonçalves do Bem
+- Yuri Soinatkvitz Stockler
 
 ## Professor
 
