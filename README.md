@@ -11,7 +11,6 @@
 - Giulia Ramos Bagodi
 - Luiz Roberto Moretti Cavelagna
 - Mateus Pereira de Oliveira (Noite)
-- Matheus Henrique Ferreira Neves
 - Stella Maris Gonçalves do Bem
 - Yuri Soinatkvitz Stockler
 
