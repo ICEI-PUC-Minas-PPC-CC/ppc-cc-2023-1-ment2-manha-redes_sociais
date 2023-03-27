@@ -13,7 +13,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Lilia Alves da Silva**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Rio Branco - Acre. **Ocupação:** Professora do Ensino Medio.       |**Atribuições:** Lilia e professora de historia no ensino medio e da aula a 6 anos. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/Lilia.PNG" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Rio Branco - Acre. **Ocupação:** Professora do Ensino Medio.       |**Atribuições:** Lilia e professora de historia no ensino medio e da aula a 6 anos. 
 |**Motivações:** Lilia leciona no ensino medio a um bom tempo e possui uma filha adolescente que participa ativamente em redes sociais como streamer e tiktoker, assim como muitos dos seus alunos tambem ativos em redes sociais o tempo todo.  |**Frustações:** dificuldade para ensinar suas criancas em como usar a internet de uma forma segura, sem  grandes exposicoes ou correrm riscos.   |**Hobbies, história:** Lilia adora ler e acompanha ativamente sua filha nas redes sociais, ela tambem influencia nos hobbies, mas tendo em vista o nivel de exposicao em redes sociais ela procura ler e pesquisa mais sobre como proteger e deixar sua filha segura em seus hobbies nas redes sociais.
 
 
