@@ -10,7 +10,7 @@ Exemplo:
 
 |**Chrollo**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 26 anos. **Naturalidade:**  - Meteor City. **Ocupação:** Lider de um grupo de inteligencia de seguranca.       |**Atribuições:** Lider de um grupo com atribuicoes taticas e de seguranca. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 26 anos. **Naturalidade:**  - Meteor City. **Ocupação:** Lider de um grupo de inteligencia de seguranca.       |**Atribuições:** Lidera um grupo tatica de seguranca com 11 membros sendo cada um com sua especialidade. 
 |**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
