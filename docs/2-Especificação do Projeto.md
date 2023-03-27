@@ -6,14 +6,16 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
-
-|**Chrollo**|           |                             | 
+|**Roberto de Azevedo**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 26 anos. **Naturalidade:**  - Meteor City. **Ocupação:** Lider de um grupo de inteligencia de seguranca.       |**Atribuições:** Lidera um grupo tatica de seguranca com 11 membros sendo cada um com sua especialidade. 
-|**Motivações:** Chrollo tem duas criancas muito animadas e agitadas que adoram descobrir coisas novas, Gon e Killua, por isso ele quer aprender metodos de proteger as criancas na internet.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** Formiga - Minas Gerais. **Ocupação:** Lider de um grupo de inteligencia e seguranca.       |**Atribuições:** Lidera um grupo de seguranca com 11 membros, sendo desde parte administrativa a seguranca de locais como festas e pubs. 
+|**Motivações:** Roberto tem duas criancas muito animadas e agitadas que adoram descobrir coisas novas, por isso ele quer aprender metodos de proteger as criancas na internet.  |**Frustações:** dificuldade para ensinar suas criancas em como usar a internet de uma forma segura, sem  grandes exposicoes ou correrm riscos.   |**Hobbies, história:** Roberto adora tecnologia mas quando e totalmente leigo no assunto, e querendo que suas criancas usem a internet de forma segura, ele busca aprender mais sobre o assunto e como ensinar para os outros o que aprendeu.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
+|**Lilia Alves da Silva**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Rio Branco - Acre. **Ocupação:** Professora do Ensino Medio.       |**Atribuições:** Lilia e professora de historia no ensino medio e da aula a 6 anos. 
+|**Motivações:** Lilia leciona no ensino medio a um bom tempo e possui uma filha adolescente que participa ativamente em redes sociais como streamer e tiktoker, assim como muitos dos seus alunos tambem ativos em redes sociais o tempo todo.  |**Frustações:** dificuldade para ensinar suas criancas em como usar a internet de uma forma segura, sem  grandes exposicoes ou correrm riscos.   |**Hobbies, história:** Lilia adora ler e acompanha ativamente sua filha nas redes sociais, ela tambem influencia nos hobbies, mas tendo em vista o nivel de exposicao em redes sociais ela procura ler e pesquisa mais sobre como proteger e deixar sua filha segura em seus hobbies nas redes sociais.
+
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
