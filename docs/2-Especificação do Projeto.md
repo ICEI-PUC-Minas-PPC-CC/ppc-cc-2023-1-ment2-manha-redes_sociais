@@ -2,13 +2,12 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
 ## Personas
 
 |**Roberto de Azevedo**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/chrollo.jpg" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** Formiga - Minas Gerais. **Ocupação:** Lider de um grupo de inteligencia e seguranca.       |**Atribuições:** Lidera um grupo de seguranca com 11 membros, sendo desde parte administrativa a seguranca de locais como festas e pubs. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/Roberto%20de%20Azevedo.PNG" width="200" height="200"/>|**Idade:** 29 anos. **Naturalidade:** Formiga - Minas Gerais. **Ocupação:** Lider de um grupo de inteligencia e seguranca.       |**Atribuições:** Lidera um grupo de seguranca com 11 membros, sendo desde parte administrativa a seguranca de locais como festas e pubs. 
 |**Motivações:** Roberto tem duas criancas muito animadas e agitadas que adoram descobrir coisas novas, por isso ele quer aprender metodos de proteger as criancas na internet.  |**Frustações:** dificuldade para ensinar suas criancas em como usar a internet de uma forma segura, sem  grandes exposicoes ou correrm riscos.   |**Hobbies, história:** Roberto adora tecnologia mas quando e totalmente leigo no assunto, e querendo que suas criancas usem a internet de forma segura, ele busca aprender mais sobre o assunto e como ensinar para os outros o que aprendeu.
 
 |**Lilia Alves da Silva**|           |                             | 
@@ -16,18 +15,6 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/Lilia.PNG" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Rio Branco - Acre. **Ocupação:** Professora do Ensino Medio.       |**Atribuições:** Lilia e professora de historia no ensino medio e da aula a 6 anos. 
 |**Motivações:** Lilia leciona no ensino medio a um bom tempo e possui uma filha adolescente que participa ativamente em redes sociais como streamer e tiktoker, assim como muitos dos seus alunos tambem ativos em redes sociais o tempo todo.  |**Frustações:** dificuldade para ensinar suas criancas em como usar a internet de uma forma segura, sem  grandes exposicoes ou correrm riscos.   |**Hobbies, história:** Lilia adora ler e acompanha ativamente sua filha nas redes sociais, ela tambem influencia nos hobbies, mas tendo em vista o nivel de exposicao em redes sociais ela procura ler e pesquisa mais sobre como proteger e deixar sua filha segura em seus hobbies nas redes sociais.
 
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
 
 ## Histórias de Usuários
 
@@ -37,8 +24,8 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Roberto de Azevedo | Ensinar suas criancas a navegar na internet | Suas criancas querem explorar e aprender sobre internet. |
+|Lilia Alves da Silva | Aprender sobre seguranca na internet | Ensinar sua filha e seus alunos da escola sobre Cybersecurity. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
