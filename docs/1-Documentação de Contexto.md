@@ -6,10 +6,10 @@ As dificuldades de se ensinar e passar o conhecimento para os mais jovens de com
 ## Problema
 O problema a ser minimizado está relacionado ao perigo que as redes sociais podem significar na vida das crianças e adolescentes, podemos notar que a cada ano que se passa mais crianças e adolescentes tem contato com a internet e de acordo com uma matéria de 2020 da Agência Brasil, um estudo apontou que 93% das crianças e adolescentes do país entre 9 e 17 anos são usuárias de internet, o que corresponde a cerca de 22,3 milhões de pessoas conectadas nessa faixa etária.
 Como consequência desse aumento de acessibilidade a internet, as crianças e adolescentes ficam vulneráveis a pedofilia, conteúdo sexual, cyberbullying, racismo, entre outros conteúdos sensíveis ou que não são para essa faixa etária, um outro conteúdo que vem sendo muito problemático entre crianças e adolescentes são supostas “brincadeiras” e desafios que remetem ao suicídio ou incentivo à violência e são publicadas nas redes, alguns exemplos são:
-A brincadeira do desmaio- Consiste em provocar a asfixia até desmaiar.
-Desafio do desodorante-  A pessoa espirra o spray aerossol diretamente na boca e tenta inalar, pelo maior tempo possível.
-Desafio Momo – Aprece em vídeos do youtube ou em redes socias e exige que os participantes enviem mensagens via WhatsApp a ela ou conversem via jogos interativos, como o Minecraft. Momo então os responde com imagens de violência, ameaças, xingamentos, ligações de madrugada e provas em que submete os participantes a realizarem automutilação, sucídio entre outras situações abomináveis.
-Desafio Baleia Azul – Por meio do WhatsApp influenciava crianças e adolescentes a se automutilarem e a cometerem suicídio.
+> A brincadeira do desmaio- Consiste em provocar a asfixia até desmaiar.
+> Desafio do desodorante-  A pessoa espirra o spray aerossol diretamente na boca e tenta inalar, pelo maior tempo possível.
+> Desafio Momo – Aprece em vídeos do youtube ou em redes socias e exige que os participantes enviem mensagens via WhatsApp a ela ou conversem via jogos interativos, como o Minecraft. Momo então os responde com imagens de violência, ameaças, xingamentos, ligações de madrugada e provas em que submete os participantes a realizarem automutilação, sucídio entre outras situações abomináveis.
+> Desafio Baleia Azul – Por meio do WhatsApp influenciava crianças e adolescentes a se automutilarem e a cometerem suicídio.
 Essas brincadeira e desafios acima mostram apenas alguns de diversos riscos que essas crianças e adolescentes estão correndo na internet, já foram relatados diversas mortes por meio dessa supostas brincadeiras e aumento das porcentagens de pedofilia, assédio, cyberbullying e entre outros perigos na internet. 
 
 
