@@ -4,7 +4,7 @@ As redes sociais atualmente são um grande pilar da internet, para interações,
 As dificuldades de se ensinar e passar o conhecimento para os mais jovens de como se protegerem, assim como continuarem seu livre acesso e desfrutarem dos recursos, porem de forma segura sem serem expostos a tanto perigo, ou se expostos, as melhores formas de se precaverem e protegerem.
 
 ## Problema
-O problema a ser minimizado está relacionado ao perigo que as redes sociais podem significar na vida das crianças e adolescentes, podemos notar que a cada ano que se passa mais crianças e adolescentes tem contato com a internet e de acordo com uma matéria de 2022 da Agência Brasil, um estudo apontou que 93% das crianças e adolescentes do país entre 9 e 17 anos são usuárias de internet, o que corresponde a cerca de 22,3 milhões de pessoas conectadas nessa faixa etária.
+O problema a ser minimizado está relacionado ao perigo que as redes sociais podem significar na vida das crianças e adolescentes, podemos notar que a cada ano que se passa mais crianças e adolescentes tem contato com a internet e de acordo com uma matéria de 2020 da Agência Brasil, um estudo apontou que 93% das crianças e adolescentes do país entre 9 e 17 anos são usuárias de internet, o que corresponde a cerca de 22,3 milhões de pessoas conectadas nessa faixa etária.
 Como consequência desse aumento de acessibilidade a internet, as crianças e adolescentes ficam vulneráveis a pedofilia, conteúdo sexual, cyberbullying, racismo, entre outros conteúdos sensíveis ou que não são para essa faixa etária, um outro conteúdo que vem sendo muito problemático entre crianças e adolescentes são supostas “brincadeiras” e desafios que remetem ao suicídio ou incentivo à violência e são publicadas nas redes, alguns exemplos são:
 A brincadeira do desmaio- Consiste em provocar a asfixia até desmaiar.
 Desafio do desodorante-  A pessoa espirra o spray aerossol diretamente na boca e tenta inalar, pelo maior tempo possível.
@@ -27,7 +27,7 @@ A idéia inicial será de através de entrevistas, questionarios e levantamento 
 
 > **Links Úteis**:
 > - [Crianças nas redes sociais](http://eventosacademicos.filo.uba.ar/index.php/SCSE/II-2014/paper/view/1978)
-> - [mediação paternal na exposição as redes sociais](https://www.redalyc.org/journal/4518/451870070012/451870070012.pdf)
+> - [Mediação paternal na exposição as redes sociais](https://www.redalyc.org/journal/4518/451870070012/451870070012.pdf)
 
 ## Justificativa
 
