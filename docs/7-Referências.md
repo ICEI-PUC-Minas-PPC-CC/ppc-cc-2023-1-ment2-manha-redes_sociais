@@ -1,17 +1,14 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
+sem autor: TÍTULO da matéria. Nome do jornal, cidade de publicação, dia, mês e ano. Seção (se houver). Disponível em: <URL>. Acesso em: dia, mês e ano.
 
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
+[1] TOKARNIA, Mariana. "Nove em cada dez crianças e adolescentes são usuárias de internet". Agência Brasil, Rio de Janeiro, 23 de junho de 2020. Disponível em: <https://agenciabrasil.ebc.com.br/educacao/noticia/2022-08/nove-em-cada-dez-criancas-e-adolescentes-sao-usuarias-de-internet> Acesso em: 06 de abril de 2023.
 
-Exemplos de referências:
-
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
+[2] "As cinco brincadeiras mais perigosas da Internet". A Gazeta, 12 de fevereiro de 2020. Disponível em: <https://www.agazeta.com.br/revista-ag/comportamento/as-cinco-brincadeiras-mais-perigosas-da-internet-0220> Acesso em: 06 de abril de 2023.
+ 
+[3] "Exposição de crianças e adolescentes na internet ocupa 5ª posição no ranking do Disque 100". Gov.br, 11 de novembro de 2020. Disponível em: <https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/novembro/exposicao-de-criancas-e-adolescentes-na-internet-ocupa-quinta-posicao-no-ranking-de-denuncias-do-disque-100> Acesso em: 05 de abril de 2023.
+  
+[4] PEREIRA, Rita Ribas. "Crianças nas redes sociais online". Eventos Acadêmicos, 17 de janeiro de 2018. Disponível em: <http://eventosacademicos.filo.uba.ar/index.php/SCSE/II-2014/paper/view/1978> Acesso em: 18 de março de 2023. 
+ 
+[5] SCHWARTZ, Fernanda Tabasnik; PACHECO, Janaína Thais Barbosa. "Mediação Parental na Exposição às Redes Sociais e a Internet de Crianças e Adolescentes". Estudos e Pesquisas em Psicologia, vol. 21, núm. 1,
+Universidade do Estado do Rio de Janeiro. Instituto de Psicologia, Janeiro de 2021, ISSN: 1808-4281. Disponível em: <https://www.redalyc.org/journal/4518/451870070012/451870070012.pdf> Acesso em: 18 de março de 2023. 
