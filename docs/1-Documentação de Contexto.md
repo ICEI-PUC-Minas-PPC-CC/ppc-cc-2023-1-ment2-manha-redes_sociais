@@ -38,7 +38,7 @@ Uma pesquisa realizada pela empresa de cibersegurança Norton LifeLock apontou q
 > - [Vulnerabilidade social e a exposição da criança na internet](https://www.scielo.br/j/psoc/a/BhpqZsFyTsQ8dsxySqG8tQc/abstract/?lang=pt)
 > - [Falta de supervisão na internet](https://canaltech.com.br/seguranca/quase-metade-dos-brasileiros-deixam-filhos-sem-qualquer-supervisao-na-internet-221409/)
 > - [Crianças sem supervisão na internet](https://revistacrescer.globo.com/Curiosidades/noticia/2017/02/41-das-criancas-de-6-anos-acessam-internet-sem-supervisao-de-adultos.html)
-> -[Nove em cada 10 crianças e adolescentes são usuárias da internet](https://agenciabrasil.ebc.com.br/educacao/noticia/2022-08/nove-em-cada-dez-criancas-e-adolescentes-sao-usuarias-de-internet)
+> - [Nove em cada 10 crianças e adolescentes são usuárias da internet](https://agenciabrasil.ebc.com.br/educacao/noticia/2022-08/nove-em-cada-dez-criancas-e-adolescentes-sao-usuarias-de-internet)
 
 ## Público-Alvo
 
