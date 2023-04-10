@@ -52,12 +52,9 @@ Uma pesquisa realizada pela empresa de cibersegurança Norton LifeLock apontou q
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+Nosso público alvo se resume a pais e tutores que desejam entender sobre segurança nas redes sociais, conhecendo os ambientes digitais e suas particularidades para proteger e orientar crianças e adolescentes nas interações pela Internet. Não é necessário possuir conhecimento prévio sobre segurança, mas é aconselhado saber o básico sobre celulares e redes sociais.
 
 > **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> - [O que são Redes Sociais](https://www.mlabs.com.br/blog/redes-sociais/)
+> - [Matéria sobre os perigos nas redes](https://istoe.com.br/os-perigos-das-redes-sociais/)
+> 
