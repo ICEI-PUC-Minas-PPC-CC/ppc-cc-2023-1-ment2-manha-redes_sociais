@@ -6,7 +6,7 @@
 Cronograma incial para desenvolvimento do projeto
 
 
-|  Formulario | Formulário para pais  | Tempo necessário |
+|  Item | Descrição  | Tempo necessário |
 |-------------|-----------------------|------------------|
 |1| Fase Preliminar - especificação e detalhamento | de 06/03/23 a 03/04/23 | 
 |2| Elaboração de formulários (para pais e para adolescentes  | 1 semana - 10/04/23 a  17/04/23 |
