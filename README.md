@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Alana Silva Barbosa
-- Diogo Azevedo Batagini
+- Dioggo Azevedo Batagini
 - Giulia Ramos Bagodi
 - Luiz Roberto Moretti Cavelagna
 - Mateus Pereira de Oliveira (Noite)
