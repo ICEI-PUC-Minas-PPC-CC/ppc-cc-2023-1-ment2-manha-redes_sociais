@@ -1,7 +1,5 @@
 # Referências
 
-sem autor: TÍTULO da matéria. Nome do jornal, cidade de publicação, dia, mês e ano. Seção (se houver). Disponível em: <URL>. Acesso em: dia, mês e ano.
-
 [1] TOKARNIA, Mariana. "Nove em cada dez crianças e adolescentes são usuárias de internet". Agência Brasil, Rio de Janeiro, 23 de junho de 2020. Disponível em: <https://agenciabrasil.ebc.com.br/educacao/noticia/2022-08/nove-em-cada-dez-criancas-e-adolescentes-sao-usuarias-de-internet> Acesso em: 06 de abril de 2023.
 
 [2] "As cinco brincadeiras mais perigosas da Internet". A Gazeta, 12 de fevereiro de 2020. Disponível em: <https://www.agazeta.com.br/revista-ag/comportamento/as-cinco-brincadeiras-mais-perigosas-da-internet-0220> Acesso em: 06 de abril de 2023.
@@ -25,4 +23,4 @@ Universidade do Estado do Rio de Janeiro. Instituto de Psicologia, Janeiro de 20
  
 [11] KLEIN, Enio. "5 dicas essenciais para definir o público-alvo do seu negócio". Exame, 14 de agosto de 2017. Disponível em: <https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/> Acesso em: 05 de abril de 2023.
  
-[12] BRAGA, Dafne. "Qual a diferença entre público-alvo e persona?". Rockcontent, 27 de janeira de 2018. Disponível em: <https://rockcontent.com/br/blog/diferenca-publico-alvo-e-persona/> Acesso em: 05 de abril de 2023.
+[12] BRAGA, Dafne. "Qual a diferença entre público-alvo e persona?". Rockcontent, 27 de janeiro de 2018. Disponível em: <https://rockcontent.com/br/blog/diferenca-publico-alvo-e-persona/> Acesso em: 05 de abril de 2023.
