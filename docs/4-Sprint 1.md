@@ -10,17 +10,11 @@ Perguntas sobre conversa nas escolas
 
 REDES SOCIAIS
 Você gostaria de ser influencer
-
 Tem muitos seguidores
-
 Quais redes sociais você utiliza
-
 Quanto tempo gasto em media
-
 Quem é viciado em celular
-
 Conheceu amigos
-
 Posta conteúdo nas redes
 
 
