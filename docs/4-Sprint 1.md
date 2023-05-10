@@ -1,12 +1,9 @@
 # Sprint 1
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
+Com base na temática do uso de Redes Sociais para a Criança e Adolescente, preparamos uma roda de conversa em volta de alguns temas e tópicos, com o objetivo o principal objetivo sendo ouvir e conversar com eles, com um encontro mais próximo e humano sobre o assunto, para tambem auxiliar no desenvolvimento, autonomia e na aprendizagem consciente e responsável da criança com o uso da internet de forma segura.
+Sabemos que privar o uso de internet e redes sociais, atualmente, é praticamente impossível, então o melhor caminho, em um mundo onde a informação circula de forma tão rápida e dinâmica é a orientação e guiar esse público sobre as melhores formas de utilização, para que elas possam desfrutar do que gostam de fazer usualmente, mas com responsabilidade e segurança.
 
-O detalhamento do que deverá será entregue, será definido em sala junto com seu(sua) professor(a).
 
-Perguntas e temas (a planejar)
-
-Perguntas sobre conversa nas escolas
 
 **REDES SOCIAIS**  
 -Você gostaria de ser influencer  
