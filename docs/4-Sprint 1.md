@@ -7,9 +7,10 @@ ________________________________________________________________________________
 
 
 ## Tópicos para Roda de Conversa
+
 **REDES SOCIAIS**  
--Você gostaria de ser influencer  
--Tem muitos seguidores  
+-Você gostaria de ser influencer
+-Tem muitos seguidores
 -Quais redes sociais você utiliza  
 -Quanto tempo gasto em media  
 -Quem é viciado em celular  
@@ -22,6 +23,7 @@ ________________________________________________________________________________
 -Gosta da marca de algum influencer  
 -Já levou golpe  
 -Qual rede tem mais propagandas  
+
 
 **JOGOS ONLINE**  
 -Qual jogo você joga  
@@ -37,4 +39,16 @@ Namorou/namora na internet
 Onde você conheceu a pessoa  
 Quantos anos de diferença (mais que um ano, mesma idade, mais que 5 anos)  
 Conheceu pessoalmente a pessoa  
+
+
+## Possíveis Conclusões
+
+Através da Roda de conversa, iremos orientar com uma parte técnica de forma simplificada, preparar e esclarecer possíveis dúvidas sobre os perigos e dificuldades sobre a segurança na internet, iremos preparar um material de apoio para eventuais necessidades, mas sobretudo em questões técnicas iremos nos consolidar em falar sobre:
+
+Termos de uso e Políticas de Privacidade em Redes Sociais
+Configurações e adaptaçoes para proteção
+Uso de dados e informações de Redes Sociais
+Comportamentos e Práticas básicas para segurança do Sistema (android. IOS, ....)
+detecção de ações suspeitas
+O que fazer se encontrar algo suspeito
 
