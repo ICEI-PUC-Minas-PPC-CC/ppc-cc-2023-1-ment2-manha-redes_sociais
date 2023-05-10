@@ -4,6 +4,7 @@ Com base na temática do uso de Redes Sociais para a Criança e Adolescente, pre
 Sabemos que privar o uso de internet e redes sociais, atualmente, é praticamente impossível, então o melhor caminho, em um mundo onde a informação circula de forma tão rápida e dinâmica é a orientação e guiar esse público sobre as melhores formas de utilização, para que elas possam desfrutar do que gostam de fazer usualmente, mas com responsabilidade e segurança.
 
 
+## Tópicos para Roda de Conversa
 
 **REDES SOCIAIS**  
 -Você gostaria de ser influencer  
