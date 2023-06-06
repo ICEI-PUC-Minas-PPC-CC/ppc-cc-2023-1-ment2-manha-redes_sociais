@@ -19,6 +19,8 @@ O grupo deve ter o cuidado em utilizar figuras, imagens e cores dentro do contex
 
 ## Pitch de apresentação
 
-Para o _pitch_ de apresentação, o grupo deverá gravar um vídeo relatando a problemática em que seu projeto se insere, a motivação/justificativa para resolver o problema, a descrição da solução proposta (incluindo requisitos funcionais, quando pertinente) e os objetivos atingidos ou resultados obtidos. 
+Para o pitch de apresentação, o grupo deverá gravar um vídeo de apresentação do projeto.
 
-Resumam, em até 3 minutos, tudo o que foi desenvolvido ao longo do desenvolvimento desta prática extensionista.
+No vídeo, TODOS os alunos deverão falar e o vídeo deve conter, obrigatoriamente: objetivos, público-alvo, metodologia de desenvolvimento, descrição da execução, percepções gerais do grupo (surpresas vs. frustrações) e conclusões.
+
+Resumam, em até 7 minutos, tudo o que foi desenvolvido ao longo prática extensionista realizada.
