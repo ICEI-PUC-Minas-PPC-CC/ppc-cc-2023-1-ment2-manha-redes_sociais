@@ -52,7 +52,7 @@ Uma pesquisa realizada pela empresa de cibersegurança Norton LifeLock apontou q
 
 ## Público-Alvo
 
-Nosso público alvo se resume a pais e tutores que desejam entender sobre segurança nas redes sociais, conhecendo os ambientes digitais e suas particularidades para proteger e orientar crianças e adolescentes nas interações pela Internet. Não é necessário possuir conhecimento prévio sobre segurança, mas é aconselhado saber o básico sobre celulares e redes sociais.
+Nosso público alvo são crianças, pré-adolescentes e adolescentes que desejam entender sobre segurança nas redes sociais, conhecendo os ambientes digitais e suas particularidades para se proteger nas interações pela Internet. Não é necessário possuir conhecimento prévio sobre segurança, mas é aconselhado saber o básico sobre celulares e redes sociais.
 
 > **Links Úteis**:
 > - [O que são Redes Sociais](https://www.mlabs.com.br/blog/redes-sociais/)
