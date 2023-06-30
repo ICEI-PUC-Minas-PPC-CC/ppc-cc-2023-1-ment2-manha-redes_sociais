@@ -20,6 +20,10 @@ No decorrer da apresentação, a percepção principal foi que as respostas do s
 
 No geral, foi possível alcançar os objetivos propostos para essa primeira intervenção, a apresentação teve um tom de roda de conversa com o intuito de conscientizar os alunos do risco, teve um bom nível de participação e foi possível coletar os dados considerados importantes durante a elaboração do projeto. Mais detalhes sobre o tema poderão ser trazidos à tona a partir dos dados coletados na segunda apresentação. 
 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/redes sociais 1.jpeg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/redes sociais 2.jpeg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/redes sociais 3.jpeg"/>
+
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/apresentacao.jpeg" width="200" height="200"/>
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-redes_sociais/blob/main/docs/img/apresentacao1.jpeg" width="200" height="200"/>
 
